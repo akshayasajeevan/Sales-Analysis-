@@ -1,5 +1,5 @@
 
-# Sales Performance Dashboard
+# Sales Performance
 
 ## 📌 Project Overview
 
